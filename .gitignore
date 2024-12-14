@@ -1,0 +1,7 @@
+evaluation/
+best_model/
+test_trainer_v4/
+env/
+wandb/
+__pycache__/
+.vscode/
